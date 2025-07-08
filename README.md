@@ -29,7 +29,9 @@ Punjab University College of Information Technology
 📆 Dec. 2022 – Present 
 # 📫 Contact Me
 📧 Email: sidrasiddique494@gmail.com
-🐙 GitHub: github.com/SidraSiddique
-🔗 LinkedIn: linkedin.com/in/sidra-siddique-4b293031a
 
-# 🚀 Let’s connect and build data-powered solutions together!
+🐙 GitHub: github.com/SidraSiddique
+
+🔗 LinkedIn: linkedin.com/in/sidra-siddique-4b293031a
+##
+🚀 Let’s connect and build data-powered solutions together!
