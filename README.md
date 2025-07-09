@@ -2,8 +2,7 @@
 # 🌟 About Me
 I'm a motivated and results-driven Data Science student at Punjab University College of Information Technology (PUCIT). With a strong foundation in Python, Machine Learning, and statistical analysis, I thrive on extracting meaningful insights from complex datasets.My academic journey is backed by hands-on experience with real-world projects involving deep learning, web development, dashboarding, and predictive modeling. I’m always eager to take on new challenges and build impactful data-driven applications.
 # 🔧 Skills
-### Languages: 
-Python, SQL, HTML, CSS
+### Languages: ####Python, SQL, HTML, CSS
 ### Technologies & Tools:
 Power BI, SSMS, Streamlit, Git, Jupyter Notebook
 ### Machine Learning & AI:
